@@ -1,4 +1,4 @@
-# All Major Screens
+# Game Options
 
 
 ## Main Menu
