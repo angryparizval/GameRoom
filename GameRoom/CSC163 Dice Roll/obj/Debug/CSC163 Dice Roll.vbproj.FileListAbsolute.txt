@@ -1,0 +1,16 @@
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163 Dice Roll.vbproj.AssemblyReference.cache
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163_Dice_Roll.Resources.resources
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163 Dice Roll.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163 Dice Roll.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\bin\Debug\CSC163 Dice Roll.exe.config
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\bin\Debug\CSC163 Dice Roll.exe
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\bin\Debug\CSC163 Dice Roll.pdb
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\bin\Debug\CSC163 Dice Roll.xml
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163 Dice Roll.exe
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163 Dice Roll.xml
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163 Dice Roll.pdb
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163_Dice_Roll.frmDiceRoll.resources
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163_Dice_Roll.MainRoom.resources
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163_Dice_Roll.frmRPS.resources
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163_Dice_Roll.frmNumGuess.resources
+C:\Users\ryanb\source\repos\CSC163 Dice Roll\CSC163 Dice Roll\obj\Debug\CSC163_Dice_Roll.frmHighLow.resources
